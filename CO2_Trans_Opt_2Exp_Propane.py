@@ -772,6 +772,8 @@ for cryo in range(len(C)):
     #
 
 
+
+
     p_star = exp_c_in.p * (2 / (gam_int + 1)) ** ((gam_int) / (gam_int - 1))
     l_str = r_shaft * 2  # length of expander chamber
 
